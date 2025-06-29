@@ -1,0 +1,6 @@
+{
+  "status": "success",
+  "query": "Summarise my Blood Test Report",
+  "analysis": "🩺 Your hemoglobin level is 13.5, which is normal. No signs of anemia...",
+  "file_processed": "sample.pdf"
+}
